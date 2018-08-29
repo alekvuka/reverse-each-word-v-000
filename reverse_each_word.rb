@@ -7,6 +7,6 @@ def reverse_each_word(sentence)
   end
 
   phrase = sentence_array.join(" ")
-  puts phrase
+
 
 end
